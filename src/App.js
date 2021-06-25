@@ -119,10 +119,8 @@ function App() {
       </div>
     </div>
   </section>
-
   
   <Portfolio portfolioLinks={portfolioLinks}></Portfolio>
-
   
   <section className="page-section" id="about">
     <div className="container">
@@ -203,7 +201,6 @@ function App() {
       </div>
     </div>
   </section>
-
   
   <section className="bg-light page-section" id="team">
     <div className="container">
@@ -294,7 +291,6 @@ function App() {
       </div>
     </div>
   </section>
-
   
   <section className="py-5">
     <div className="container">
@@ -323,7 +319,6 @@ function App() {
     </div>
   </section>
 
-  
   <section className="page-section" id="contact">
     <div className="container">
       <div className="row">
@@ -367,7 +362,6 @@ function App() {
       </div>
     </div>
   </section>
-
   
   <footer className="footer">
     <div className="container">
